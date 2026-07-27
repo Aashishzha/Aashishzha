@@ -1,7 +1,7 @@
 <!-- ===== HERO BANNER ===== -->
 <!-- Requires dark.svg pushed to the ROOT of this repo, repo name must equal your username -->
 
-<img alt="Aashish" src="https://raw.githubusercontent.com/aashishzha/main/dark.svg">
+<img alt="Aashish" src="https://raw.githubusercontent.com/Aashishzha/main/dark.svg">
 
 <!-- ===== GITHUB STATS ===== -->
 
